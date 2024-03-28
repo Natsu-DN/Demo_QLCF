@@ -1,0 +1,31 @@
+E:\Visual Studio\QuanLyQuanCF\bin\Debug\QuanLyQuanCF.exe.config
+E:\Visual Studio\QuanLyQuanCF\bin\Debug\QuanLyQuanCF.exe
+E:\Visual Studio\QuanLyQuanCF\bin\Debug\QuanLyQuanCF.pdb
+E:\Visual Studio\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.csproj.AssemblyReference.cache
+E:\Visual Studio\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.Form1.resources
+E:\Visual Studio\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.Presentation.FrmBanHang.resources
+E:\Visual Studio\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.Properties.Resources.resources
+E:\Visual Studio\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.csproj.GenerateResource.cache
+E:\Visual Studio\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.csproj.CoreCompileInputs.cache
+E:\Visual Studio\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.exe
+E:\Visual Studio\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.pdb
+E:\Visual Studio\QuanLyQuanCF\bin\Debug\EntityFramework.dll
+E:\Visual Studio\QuanLyQuanCF\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Studio\QuanLyQuanCF\bin\Debug\EntityFramework.xml
+E:\Visual Studio\QuanLyQuanCF\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.csproj.CopyComplete
+C:\Users\Admin\Desktop\QuanLyQuanCF\QuanLyQuanCF\bin\Debug\QuanLyQuanCF.exe.config
+C:\Users\Admin\Desktop\QuanLyQuanCF\QuanLyQuanCF\bin\Debug\QuanLyQuanCF.exe
+C:\Users\Admin\Desktop\QuanLyQuanCF\QuanLyQuanCF\bin\Debug\QuanLyQuanCF.pdb
+C:\Users\Admin\Desktop\QuanLyQuanCF\QuanLyQuanCF\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\QuanLyQuanCF\QuanLyQuanCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\QuanLyQuanCF\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyQuanCF\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.Form1.resources
+C:\Users\Admin\Desktop\QuanLyQuanCF\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyQuanCF\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QuanLyQuanCF\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyQuanCF\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.csproj.CopyComplete
+C:\Users\Admin\Desktop\QuanLyQuanCF\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.exe
+C:\Users\Admin\Desktop\QuanLyQuanCF\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.pdb
+C:\Users\Admin\Desktop\QuanLyQuanCF\QuanLyQuanCF\obj\Debug\QuanLyQuanCF.Presentation.FrmCafe.resources
